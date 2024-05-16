@@ -3,4 +3,4 @@ The contract is deployed in the sepolia network of ethereum.
 
 The backend server and MongoDb database is working perfectly to dynamically get the addresses.
 
-******Getting call_exception error in the end******
+******Getting call_exception error in the end after sending the tx in metamask.******
