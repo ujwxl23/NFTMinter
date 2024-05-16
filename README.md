@@ -2,4 +2,5 @@ This is a NFTMinter application built using ReactJS, NodeJS, ExpressJS, MongoDB 
 The contract is deployed in the sepolia network of ethereum.  
 
 The backend server and MongoDb database is working perfectly to dynamically get the addresses.
+
 ******Getting call_exception error in the end******
